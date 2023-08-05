@@ -1,0 +1,9 @@
+*{
+    background-color: #222;
+    color: white;
+}
+button{
+    padding: 1rem;
+    background-color: cadetblue;
+    margin: 1rem;
+}
